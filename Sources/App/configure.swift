@@ -8,5 +8,7 @@ public func configure(_ app: Application) async throws {
     // register routes
     
     try app.register(collection: learnersController())
+    try app.register(collection: coursesController())
+    try app.register(collection: learnerEnrollmentsController())
     try routes(app)
 }
