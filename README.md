@@ -19,4 +19,5 @@
     
 <img width="879" alt="Screenshot 1445-08-16 at 9 12 37 AM" src="https://github.com/Pieyx/Learnify/assets/101755098/f5fc7e1f-a070-4e28-b6fd-b2fcde02ed42">
 
-<img width="879" alt="Screenshot 1445-08-15 at 12 01 38 PM" src="https://github.com/Pieyx/Learnify/assets/101755098/66d798df-d5aa-40bb-9c44-4393d75582f4">
+<img width="879" alt="Screenshot 1445-08-16 at 9 22 10 AM" src="https://github.com/Pieyx/Learnify/assets/101755098/31fbb3ee-7f76-4ea0-a22c-f31e11e6e91e">
+
